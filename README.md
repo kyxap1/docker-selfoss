@@ -2,8 +2,7 @@
 
 [selfoss](https://selfoss.aditu.de/) 2.19 on Alpine with nginx, php-fpm and s6.
 Derived from [radek-sprta/docker-selfoss](https://gitlab.com/radek-sprta/docker-selfoss),
-which is pinned to Alpine 3.16 and PHP 8.0. Upstream has no LICENSE file in its root;
-check its terms before publishing this repository or its images.
+which is pinned to Alpine 3.16 and PHP 8.0.
 
 ## Changes from upstream
 
